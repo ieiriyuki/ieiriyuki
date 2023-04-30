@@ -28,13 +28,6 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="rust" width="40"
       height="40" /> : 2 years, basics, module, trait, etc.
 </p>
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40"
-      height="40" /> : 3 years, basics
-</p>
-<p>
-  <img src="https://api.iconify.design/logos-perl.svg" alt="perl" width="40" height="40" /> : 2 years, basics, subroutin, etc.
-</p>
 
 <h3>Frontend</h3>
 <p>
@@ -43,35 +36,22 @@
 </p>
 <p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
-      alt="react" width="40" height="40" /> : 1 year, tutorial
+      alt="react" width="40" height="40" /> : tutorial
 </p>
 
 <h3>AI/ML and Data Science</h3>
 <p>
-  <img
-      src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg"
-      alt="pandas" width="40" height="40" /> : 5 years, fluent
-</p>
-<p>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn"
-      width="40" height="40" /> : 5 years, fluent
+  <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg"
+       alt="pandas" width="40" height="40" /> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg"
+                                                   alt="scikit_learn" width="40" height="40" /> : 5 years, fluent
 </p>
 
 <h3>DB and Big Data</h3>
 <p>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
-      alt="mysql" width="40" height="40" /> : 3 years, basic configurations, table designs
-</p>
-
-<p>
-  <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg"
-      alt="postgresql" width="40" height="40" /> : 3 years, basic configurations, table designs
-</p>
-
-<p>
-  <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="hadoop" width="40"
-      height="40" /> : 2 years, basics, table operations
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
+       alt="mysql" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg"
+       alt="postgresql" width="40" height="40" /> : 3 years, basic configurations, table designs
 </p>
 
 <p>
@@ -81,7 +61,7 @@
 <p>
   <img src="https://www.vectorlogo.zone/logos/apache_cassandra/apache_cassandra-icon.svg" alt="cassandra" width="40" height="40" /> : 
   <a href="https://github.com/ieiriyuki/ud_data_engineer/tree/master/project2">
-    1 year with Udacity
+    Data Engineering Nano Degree @ Udacity
   </a>
 </p>
 
@@ -110,9 +90,8 @@
 </p>
 
 <h3>Design</h3>
-
-<img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator"
-      width="40" height="40" /> : 2 years, basics
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg"
-      alt="photoshop" width="40" height="40" /> : 2 years basics
+<p>
+  <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator"
+       width="40" height="40" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg"
+       alt="photoshop" width="40" height="40" /> : 2 years basics
+</p>
