@@ -1,6 +1,6 @@
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=ieiriyuki&show_icons=true&theme=tokyonight)](https://github.com/ieiriyuki/github-readme-stats)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=ieiriyuki&show_icons=true&theme=tokyonight)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ieiriyuki&layout=compact)](https://github.com/ieiriyuki/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ieiriyuki&layout=compact&langs_count=6)
 
 [Qiita Blog](https://qiita.com/ieiringoo)
 
