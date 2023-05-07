@@ -1,6 +1,6 @@
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ieiriyuki&show_icons=true&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ieiriyuki&layout=compact&langs_count=6)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ieiriyuki&layout=compact&langs_count=6&hide=jupyter%20notebook,css,DIGITAL%20Command%20Language)
 
 [Qiita Blog](https://qiita.com/ieiringoo)
 
@@ -27,6 +27,10 @@
 <p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="rust" width="40"
       height="40" /> : 2 years, basics, module, trait, etc.
+</p>
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40"
+      height="40"/> : <a href="https://github.com/ieiriyuki/golearn">tutorial</a>
 </p>
 
 <h3>Frontend</h3>
