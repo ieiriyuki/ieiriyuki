@@ -29,6 +29,10 @@
       height="40" /> : 2 years, basics, module, trait, etc.
 </p>
 <p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-plain.svg" alt="c" width="40"
+       height="40" /> : 2 years, basics, malloc, struct, etc.
+</p>
+<p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40"
       height="40"/> : <a href="https://github.com/ieiriyuki/golearn">tutorial</a>
 </p>
